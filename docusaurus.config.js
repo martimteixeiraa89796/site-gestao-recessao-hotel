@@ -100,6 +100,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            to: '/screenshots',
+            label: 'Screenshots',
+            position: 'left',
+          },
+          {
             to: '/download',
             label: 'Download Aplicação',
             position: 'left',
