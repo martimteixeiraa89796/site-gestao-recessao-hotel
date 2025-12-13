@@ -6,12 +6,13 @@ sidebar_position: 1
 
 A nossa aplicação foi desenhada para ser leve no sistema, mas mesmo assim a mesma depende de certos fatores.
 
-## Resumo Geral
+## Tabela de dependências
 
-A nossa aplicação depende de:
-- Terminal Emulator --> Para imprimir para o ecrã;
-- Python --> Linguagem em que a aplicação foi escrita;
-- 7zip ou outro --> Descompactar aplicação;
+| Dependência       | Razão                                    |
+|-------------------|------------------------------------------|
+| Terminal Emulator | Para imprimir para o ecrã                |
+| Python            | Linguagem em que a aplicação foi escrita |
+| 7zip ou outro     | Descompactar aplicação                   |
 
 ## Explicação
 
