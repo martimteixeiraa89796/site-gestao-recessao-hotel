@@ -100,7 +100,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel/archive/refs/heads/main.zip',
+            to: '/download',
             label: 'Download Aplicação',
             position: 'left',
           },
