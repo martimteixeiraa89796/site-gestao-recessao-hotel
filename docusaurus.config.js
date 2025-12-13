@@ -86,10 +86,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Gestão de Recessão de Hotel',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo do site',
+          src: 'img/hotel.png',
         },
         items: [
           {
