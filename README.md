@@ -31,7 +31,7 @@ npm install
 
 - **main:** Ramo para o site final/estável.
 - **dev:** Ramo geral para o site em desenvolviemnto.
-- **static:** Ramo para páginas estáticas do site.
+- **src_static:** Ramo para páginas estáticas do site.
 - **blog:** Ramo para o blog do site.
 - **docs:** Ramo para tutoriais ou outra documentação do site.
 
