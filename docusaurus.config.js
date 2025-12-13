@@ -120,41 +120,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Ajuda',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Documentação/Tutoriais',
+                to: '/docs/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Atualiza-te',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
+                label: 'Nosso Blog',
                 to: '/blog',
               },
+            ],
+          },
+          {
+            title: 'Source',
+            items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Aplicação',
+                href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel',
+              },
+              {
+                label: 'GitHub Página',
+                href: 'https://github.com/martimteixeiraa89796/site-gestao-recessao-hotel',
               },
             ],
           },
