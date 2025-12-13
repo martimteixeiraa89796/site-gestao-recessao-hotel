@@ -32,8 +32,8 @@ npm install
 - **main:** Ramo para o site final/estável.
 - **dev:** Ramo geral para o site em desenvolviemnto.
 - **src_static:** Ramo para páginas estáticas do site.
-- **blog:** Ramo para o blog do site.
-- **docs:** Ramo para tutoriais ou outra documentação do site.
+- **site_blog:** Ramo para o blog do site.
+- **site_docs:** Ramo para tutoriais ou outra documentação do site.
 
 > [!IMPORTANT]
 > Não apagar ramos utilizados, eles vão ser usados para avaliação.
