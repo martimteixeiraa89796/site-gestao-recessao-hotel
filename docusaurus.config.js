@@ -101,7 +101,12 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel',
-            label: 'GitHub',
+            label: 'Source Aplicação',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/martimteixeiraa89796/site-gestao-recessao-hotel',
+            label: 'Source Página',
             position: 'right',
           },
         ],
