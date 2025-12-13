@@ -86,22 +86,32 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Gestão de Recessão de Hotel',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo do site',
+          src: 'img/hotel.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentação/Tutoriais',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            to: '/download',
+            label: 'Download Aplicação',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel',
+            label: 'Source Aplicação',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/martimteixeiraa89796/site-gestao-recessao-hotel',
+            label: 'Source Página',
             position: 'right',
           },
         ],
@@ -110,46 +120,38 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Ajuda',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Documentação/Tutoriais',
+                to: '/docs/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Atualiza-te',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
+                label: 'Nosso Blog',
                 to: '/blog',
               },
+            ],
+          },
+          {
+            title: 'Source',
+            items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Aplicação',
+                href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel',
+              },
+              {
+                label: 'GitHub Página',
+                href: 'https://github.com/martimteixeiraa89796/site-gestao-recessao-hotel',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} David Zeferino, Martim Teixeira, Afonso Bento, Romano Balan`,
       },
       prism: {
         theme: prismThemes.github,
