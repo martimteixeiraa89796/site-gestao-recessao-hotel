@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_gestao_recessao_hotel=globalThis.webpackChunksite_gestao_recessao_hotel||[]).push([[9419],{5784:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/site-gestao-recessao-hotel/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
