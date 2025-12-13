@@ -154,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} David Zeferino, Martim Teixeira, Afonso Bento, Romano Balan`,
       },
       prism: {
         theme: prismThemes.github,
