@@ -1,25 +1,27 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+david_zeferino:
+  name: David Zeferino
+  title: Membro
+  url: https://github.com/DavidZ68792
+  image_url: https://avatars.githubusercontent.com/u/241998839?v=4
   page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+martim_teixeira:
+  name: Martim Teixeira
+  title: Membro
+  url: https://github.com/martimteixeiraa89796
+  image_url: https://avatars.githubusercontent.com/u/239362015?v=4
+  page: true
+
+afonso_bento:
+  name: Afonso Bento
+  title: Membro
+  url: https://github.com/Afonso345
+  image_url: https://avatars.githubusercontent.com/u/239366584?v=4
+  page: true
+
+romano_balan:
+  name: Romano Balan
+  title: Membro
+  url: https://github.com/a89834
+  image_url: https://avatars.githubusercontent.com/u/240728422?v=4
+  page: true
