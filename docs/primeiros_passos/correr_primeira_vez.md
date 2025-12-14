@@ -19,3 +19,11 @@ Isto vai inicializar a aplicação todas as suas componentes. Pronta a usar quan
 A partir deste momento, a aplicação está pronta para ser usada e, devido à sua natureza portátil,
 o utilizador por lever o diretório da aplicação para qualquer outra máquina que tenham as dependências necessárias.
 
+## Verificação de Tabelas
+
+A nossa aplicação é o quanto possível inteligente, no que diz respeito às tabelas da base de dados.
+Uma vez que estas são o núcleo da aplicação, é necessário verificar se as mesmas existem antes de se utilizar a aplicação.
+
+A boa notícia é que a nossa aplicação faz essa mesma verificação, automáticamente na sua inicialização.
+
+![Verificação de tableas no inicio da aplicação](/img/aplicacao/verifi_tabelas.png)
