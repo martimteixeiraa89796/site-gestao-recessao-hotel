@@ -110,6 +110,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/area_apoio',
+            label: 'Area de Apoio',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/martimteixeiraa89796/gestao-recessao-hotel',
             label: 'Source Aplicação',
             position: 'right',
