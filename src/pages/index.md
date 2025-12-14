@@ -1,6 +1,17 @@
-# Aplicaçao de Gestão de Recessão
+# Aplicação de Gestão de Recessão
 
 Esta aplicaçao permite a gestao de reservas e os horários dos funcionários para o serviço de receção de um hotel.
 E serve para que os funcionários e gerentes possam consultar, gerir, inserir, atualizar e apagar dados de forma segura e pondo todas as informações importantes na aplicação.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
+
+## Gestão de Clientes
+
+Na parte relacionada à gestão de clientes a aplicação permite:
+- a organização e segurança de dados dos clientes para garantir controlo sobre o acesso dos clientes, gerir quanto tempo estarão hospedados e proteger a sua informação;
+- a gestão de quartos para saber quais se encontram reservados, ocupados ou livres;
+- conferir datas de reservas e estadias para o controlo de quartos em uso e garantir que estejam prontos a ser usados.
+
+
+
+
