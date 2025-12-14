@@ -15,3 +15,6 @@ Na parte relacionada à gestão de clientes a aplicação permite:
 
 
 
+## Gestão de Funcionários
+
+Na parte da gestão de funcionários a aplicação permite a visualização e modificação dos horários de trabalho por semanas personalizável através da atribuição de permições aos funcionários separados por cargos para permitir o controlo sobre quem pode fazer alterações
