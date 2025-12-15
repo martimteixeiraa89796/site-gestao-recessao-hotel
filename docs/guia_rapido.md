@@ -1,4 +1,8 @@
-# Informacões para Cliente
+---
+sidebar_position: 4
+---
+
+# Guia rápido da Aplicação
 
 ## Visualizar Dados
 
