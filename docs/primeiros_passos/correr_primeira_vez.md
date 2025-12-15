@@ -27,3 +27,6 @@ Uma vez que estas são o núcleo da aplicação, é necessário verificar se as 
 A boa notícia é que a nossa aplicação faz essa mesma verificação, automáticamente na sua inicialização.
 
 ![Verificação de tableas no inicio da aplicação](/img/aplicacao/verifi_tabelas.png)
+
+Uma vez inicializada, podemos agora começar a inserir dados sobre o hotel.
+Com os dados inseridos, podemos depois dar início aos processos de receção, check-in e gestão de hospedes.
