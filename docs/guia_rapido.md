@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Guia rápido da Aplicação
 
-## Visualizar Dados
+## Visualização de Dados
 
 O opção **Visualizar Dados** permite que os funcionários do hotel **consultem informações existentes** na aplicação, como tipos de quarto, reservas, clientes ou horários.
 
-### Como Funciona a opção 1
+### Como Visualizar Dados
 
 1. **Escolher a Opção de Visualização**
    - A aplicação apresenta duas formas de visualização:
@@ -37,11 +37,11 @@ O opção **Visualizar Dados** permite que os funcionários do hotel **consultem
      - Consultar a duração da estadia dos hóspedes
    - O funcionário escolhe a consulta desejada e o sistema retorna os dados correspondentes.
 
-## Atualizar Dados
+## Atualização de Dados
 
 A opção **Atualizar Dados** permite ao funcionario ou gerente alterar **alterar informações existentes** no sistema, como tipos de quarto, reservas, clientes e horários.
 
-### Como Funciona a opção 2
+### Como Atualizar Dados
 
 1. **Escolher a Tabela**
    - Esta aplicação vai mostra uma lista de tabelas disponíveis (ex: Tipos de Cama, Tipos de Quarto,  Clientes, Quartos, Reservas, Funcionários, Horários, Hóspedes)
@@ -73,7 +73,7 @@ A opção **Atualizar Dados** permite ao funcionario ou gerente alterar **altera
 
 A opção Inserir Dados permite aos funcionarios/gerente  do hotel adicionar novos registros á aplicação, com novos tipos de quarto, camas, reservas.
 
-### Como funciona a opção 3
+### Como Inserir Dados
 
 1. **Escolher a Tabela**
    - Ao selecionar **Inserir Dados**, a aplicação apresenta uma lista com as tabelas disponíveis:
@@ -101,7 +101,7 @@ A opção Inserir Dados permite aos funcionarios/gerente  do hotel adicionar nov
 
 A opção **Apagar Dados** permite ao funcionario e o gerente do hotel remover as informacões da aplicação seja apagando regidtros de uma tabela ou apenas dados expecíficos.
 
-### Como funciona a opção 4
+### Como Apagar Dados
 
 1. **Escolher opção**
     -Ao selecionar **Apagar Dados**, a aplicação apresenta duas opções:
