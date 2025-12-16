@@ -19,7 +19,7 @@ Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher a 
 
 6. Tb_Cliente
 
-![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
+![Menu inicial da aplicação](/img/aplicacao/inserir_dados.png)
 
 Após ser feita a escolha do tipo a inserir, vai-lhe ser perguntado o NIF, Nome do Cliente e inserir o numero de telefone.
 
