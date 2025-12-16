@@ -34,3 +34,11 @@ Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da 
 que corresponde à inserção de dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
+
+Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher as tabelas referente aos tipos mencionados anteriormente.
+
+1. Tb_Tipo_Cama
+2. Tb_Tipo_Quarto
+3. Tb_Tipo_Reserva
+
+![Lista de tabelas](/img/aplicacao/inserir_dados.png)
