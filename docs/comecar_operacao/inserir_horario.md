@@ -23,3 +23,13 @@ Após a escolha, será apresentado uma lista com as tabelas disponíveis para es
 ![d](/img/aplicacao/inserir_dados.png)
 
 ## Processo de inserção
+
+O processo de inserção de dados é muito fácil. A imagem a baixo demonstra o mesmo.
+
+![Inserir horario](/img/aplicacao/insercao_dados/horario.png)
+
+### Explicação
+
+1. Primeiro é preciso inserir o número do funcionário, para isso é preciso que o respetivo funcionário exista;
+2. Introduzir o dia da semana onde necessita de informação;
+3. Por fim basta inserir uma nota do torno de trabalho ou, caso pertinente, algo como folga ou incapacidade.
