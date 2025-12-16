@@ -10,19 +10,18 @@ A tabela Cama é onde será colucado os dados das localizaçoes das camas no hot
 
 Esta tabela é dependente da tabela tipo_cama  e necessária para a tabela Quarto
 
-### adiciunar dados
+### Incerir dados
 
-Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a função de adicionar dados.
+Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a função de inserir dados.
 
-imagem
+![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
-Após selecionar a opção de adicionar dados basta selecionar a tabela Cama
+Após selecionar a opção de adicionar dados basta selecionar a tabela Cama.
 
 8. Tb_Camas
 
-imagem
+![Menu inicial da aplicação](/img/aplicacao/inserir_dados.png)
 
 Por fim adicione os dados de acordo com o que lhe é pedido
 
-
-imagem
+![Menu inicial da aplicação](/img/aplicacao/inserir_Camas.png)
