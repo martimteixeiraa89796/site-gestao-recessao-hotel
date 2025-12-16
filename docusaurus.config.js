@@ -100,8 +100,23 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            to: '/blog/tags/changelog',
+            label: 'Changelogs',
+            position: 'left',
+          },
+          {
+            to: '/screenshots',
+            label: 'Screenshots',
+            position: 'left',
+          },
+          {
             to: '/download',
             label: 'Download Aplicação',
+            position: 'left',
+          },
+          {
+            to: '/area_apoio',
+            label: 'Area de Apoio',
             position: 'left',
           },
           {
