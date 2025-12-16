@@ -42,3 +42,7 @@ Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher as
 3. Tb_Tipo_Reserva
 
 ![Lista de tabelas](/img/aplicacao/inserir_dados.png)
+
+Após ser feita a escolha do tipo a inserir, vai-lhe ser perguntado o nome que quer dar ao tipo. Esta ação é semelhante para os 3 tipos mencionados anteriormente.
+
+![Processo de inserção de tipos](/img/aplicacao/insercao_dados/tipos.png)
