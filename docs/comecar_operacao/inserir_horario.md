@@ -4,7 +4,11 @@ sidebar_position: 3
 
 # Inserir horário
 
-Com os funcionários e as suas funções definidas, é preciso estabeler os horários de trabalhos para cada indivíduo.
+Com os funcionários e as suas funções definidas, é preciso estabeler os horários de trabalhos para cada indivíduo. Para tal, vamos usar a tabela de horários.
+
+| Tabela     | Função                                                                              |
+|------------|-------------------------------------------------------------------------------------|
+| Tb_Horario | Guarda dados como o começo e fim de trabalho, respetivo funcionário e dias de folga |
 
 ## Escolher tabela
 
@@ -17,3 +21,5 @@ Após a escolha, será apresentado uma lista com as tabelas disponíveis para es
 10. Tb_Horario
 
 ![d](/img/aplicacao/inserir_dados.png)
+
+## Processo de inserção
