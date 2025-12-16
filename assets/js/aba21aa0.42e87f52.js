@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_gestao_recessao_hotel=globalThis.webpackChunksite_gestao_recessao_hotel||[]).push([[742],{7093:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

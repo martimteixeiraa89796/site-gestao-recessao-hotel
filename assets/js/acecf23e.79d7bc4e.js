@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_gestao_recessao_hotel=globalThis.webpackChunksite_gestao_recessao_hotel||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/site-gestao-recessao-hotel/blog","blogTitle":"Blog","authorsListPath":"/site-gestao-recessao-hotel/blog/authors"}')}}]);

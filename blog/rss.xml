@@ -4,10 +4,72 @@
         <title>My Site Blog</title>
         <link>https://github.com/site-gestao-recessao-hotel/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 03 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Lançamento da aplicação]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/2026/01/10/lançamento-app</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/2026/01/10/lançamento-app</guid>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Depois de um período intenso de testes e melhorias, chegou finalmente o momento tão aguardado: o lançamento oficial da aplicação! ✨]]></description>
+            <content:encoded><![CDATA[<p>Depois de um período intenso de testes e melhorias, chegou finalmente o momento tão aguardado: o lançamento oficial da aplicação! ✨
+Esta nova fase marca o resultado de todo o trabalho, aprendizagem e evolução desenvolvidos ao longo do projeto.</p>
+<p>Com base no feedback recolhido durante o beta teste, foram feitas várias otimizações para garantir uma experiência mais estável, intuitiva e eficiente. A aplicação está agora preparada para ser utilizada de forma completa, oferecendo funcionalidades melhoradas e uma navegação mais fluida.</p>
+<p>O lançamento representa não apenas o fim de um ciclo, mas também o início de novas oportunidades 🌟. Tal como acontece nos lançamentos de jogos, este é apenas o começo — futuras atualizações, melhorias e novidades poderão surgir com o tempo.</p>
+<p>Agradecemos a todos os que acompanharam o desenvolvimento e contribuíram para o crescimento do projeto. A aplicação está oficialmente lançada — esperamos que aproveitem! 😄🚀</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Enceramento do beta teste da aplicação]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/2025/12/11/feedback-beta-teste</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/2025/12/11/feedback-beta-teste</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chegámos ao fim de uma etapa muito especial: o encerramento do beta teste da aplicação 🚀]]></description>
+            <content:encoded><![CDATA[<p>Chegámos ao fim de uma etapa muito especial: o encerramento do beta teste da aplicação 🚀
+Assim como acontece nos beta tests de jogos, este período foi marcado por descobertas, testes intensivos e muita evolução.</p>
+<p>Durante o beta, tivemos a oportunidade de testar funcionalidades, identificar melhorias e perceber melhor como a aplicação se comporta em diferentes situações. Cada erro encontrado e cada sugestão recebida ajudaram a tornar o projeto mais sólido e preparado para o futuro.</p>
+<p>Agora, encerramos esta fase com um sentimento de satisfação e gratidão 🙌. O feedback recolhido será fundamental para corrigir detalhes, melhorar o desempenho e aperfeiçoar a experiência geral antes da próxima versão.</p>
+<p>Este não é um fim, mas sim o início de uma nova fase 🌟. Tal como nos jogos que passam do beta para o lançamento oficial, a aplicação segue agora para melhorias finais. Obrigado a todos os que participaram — novidades vêm aí! 😄🚀</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Testando uma versão beta da aplicação]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Estamos muito entusiasmados em partilhar que a versão beta da nossa aplicação já está em testes! 🎉]]></description>
+            <content:encoded><![CDATA[<p>Estamos muito entusiasmados em partilhar que a versão beta da nossa aplicação já está em testes! 🎉</p>
+<p>Esta fase é um passo muito importante no desenvolvimento do projeto, pois permite-nos experimentar funcionalidades, corrigir pequenos detalhes e melhorar a experiência do utilizador.</p>
+<p>Durante os testes, estamos a explorar o funcionamento geral da aplicação, a navegação entre páginas e a forma como a informação é apresentada. O objetivo é garantir que tudo seja simples, intuitivo e agradável para quem utiliza o sistema.</p>
+<p>A versão beta também é uma oportunidade para aprender, errar e evoluir 💡. Cada teste realizado ajuda-nos a identificar melhorias e a tornar a aplicação mais estável e eficiente.</p>
+<p>Continuamos motivados e confiantes de que este projeto está a crescer no caminho certo. Fica atento(a), porque novidades e melhorias estão a caminho! 😄✨</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Distribuições de beta teste da aplicação]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/2025/11/18/inscricao-beta-teste</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/2025/11/18/inscricao-beta-teste</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Com grande entusiasmo, iniciámos as distribuições da versão beta da aplicação! 🚀]]></description>
+            <content:encoded><![CDATA[<p>Com grande entusiasmo, iniciámos as distribuições da versão beta da aplicação! 🚀
+Esta etapa permite que diferentes utilizadores tenham acesso antecipado ao projeto, ajudando-nos a testar funcionalidades em vários cenários e a recolher feedback valioso.</p>
+<p>Através destas distribuições, conseguimos avaliar o desempenho da aplicação, a estabilidade do sistema e a facilidade de utilização. Cada nova versão distribuída representa uma melhoria, aproximando-nos cada vez mais de um produto final mais completo e eficiente.</p>
+<p>O beta teste é um momento de partilha e evolução 🤝. As sugestões e observações recolhidas são essenciais para corrigir falhas, otimizar processos e garantir uma melhor experiência para todos.</p>
+<p>Estamos confiantes de que estas distribuições vão contribuir significativamente para o crescimento do projeto. O futuro da aplicação está a ser construído passo a passo! 🌟</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Changelog 0: It's Alive!!]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/changelog_0</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/changelog_0</guid>
+            <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Estamos oficialmente em desenvolvimento! Caso queiram testar a aplicação, digam "olá" de volta!]]></description>
+            <content:encoded><![CDATA[<p>Estamos oficialmente em desenvolvimento! Caso queiram testar a aplicação, digam "olá" de volta!</p>
+<p>O módulo geral da aplicação foi criada. Esta permite:</p>
+<ol>
+<li class="">Fazer print da frase "Hello World"</li>
+</ol>
+<p>É tudo por agora!</p>]]></content:encoded>
+            <category>Changelog</category>
+        </item>
         <item>
             <title><![CDATA[Recessão ou Receção]]></title>
             <link>https://github.com/site-gestao-recessao-hotel/blog/2025/10/03/recessao-rececao</link>
@@ -47,16 +109,6 @@ Até breve</p>]]></content:encoded>
 <p>O tempo passa, mas os computadores de muitos <strong>continuam os mesmos</strong>. A nossa visão é criar aplicações que possam superar estas grandes alterações. Desta forma, pretendemos criar aplicações de fácil utilização e que corram em qualquer torradeira.</p>
 <p>Apresento-vos, o nosso projeto de aplicações <strong>cli</strong>! Sem placa gráfica, sem ambiente gráfico, somente pura energia.</p>
 <p>Mantenham-se atualizados!</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Blog de teste]]></title>
-            <link>https://github.com/site-gestao-recessao-hotel/blog/teste</link>
-            <guid>https://github.com/site-gestao-recessao-hotel/blog/teste</guid>
-            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Isto é um blog de teste para testar se tudo está a funcionar.]]></description>
-            <content:encoded><![CDATA[<p>Isto é um blog de teste para testar se tudo está a funcionar.</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
         </item>
     </channel>
 </rss>
