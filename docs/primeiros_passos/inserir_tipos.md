@@ -24,3 +24,13 @@ Existem 3 tipos de objetos na base de dados:
 | Cama    | Quartos podem ter mais do que um tipo de cama, podendo variar em qualidade ou assistência especial |
 | Quarto  | O hotel pode especificar a qualidade ou certas diferenças entre vários quartos                     |
 | Reserva | Pode ser feita a distinção entre reservas com detalhes como VIP ou outros                          |
+
+Estes objetos são dependências de várias outra tabelas, por esta razão, é importante que antes se inserir qualquer dado,
+os mesmos tenham de já estar defenidos. Caso haja posteriormente a necessidade de se adicionar novos tipos de objetos, o mesmo pode ser feito.
+
+### Adicionar à base de dados
+
+Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da aplicação e escolher a opção 3,
+que corresponde à inserção de dados.
+
+![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
