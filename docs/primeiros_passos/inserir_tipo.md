@@ -10,7 +10,7 @@ Existem 3 tipos de objetos na base de dados:
 | Clientes  | Representa os hóspedes do hotel, permitindo controlar reservas, estadias e informações pessoais |
 | Quartos   | Representa os espaços físicos do hotel, permitindo associar tipos de quarto e gerir ocupação |
 
-Estes objetos são dependências de várias outra tabelas, por esta razão, é importante que antes se inserir qualquer dado,os mesmos tenham de já estar defenidos. Caso haja posteriormente a necessidade de se adicionar novos tipos de objetos, o mesmo pode ser feito.
+Estes objetos são dependências de várias outra tabelas, por esta razão, é importante que antes se inserir qualquer dado, os mesmos tenham de já estar defenidos. Caso haja posteriormente a necessidade de se adicionar novos tipos de objetos, o mesmo pode ser feito.
 
 ### Adicionar à base de dados
 
