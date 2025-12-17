@@ -9,7 +9,7 @@ sidebar_position: 2
 Mesmo tendo a aplicação pronta a ser utilizada, a base de dados da mesma vem vazia por padrão.
 A base de dados está organizada tal como a figura a abaixo demonstra:
 
-![Diagrama base de dados](/img/placeholder.png) colocar imagem do diagrama aqui
+![Diagrama base de dados](/img/basedados/diagrama_bd.png)
 
 ## Inserir tipos de objetos
 
