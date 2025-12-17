@@ -141,6 +141,10 @@ const config = {
                 label: 'Documentação/Tutoriais',
                 to: '/docs/intro',
               },
+              {
+                label: 'Area de Apoio',
+                to: '/area_apoio',
+              },
             ],
           },
           {
@@ -149,6 +153,10 @@ const config = {
               {
                 label: 'Nosso Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Changelogs',
+                to: '/blog/tags/changelog',
               },
             ],
           },
