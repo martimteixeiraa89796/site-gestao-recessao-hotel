@@ -3,15 +3,21 @@ sidebar_position: 4
 ---
 # Inserir Quartos
 
-## Objetos
+Uma vez introduzidos os tipos de quartos que o hotel classifica, é preciso criar os quartos onde os clientes ficarão hospedados.
+
+## Sobre a tabela
+
+Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/docs/primeiros_passos/iniciar_bd.md#diagrama-da-base-de-dados) da base de dados.
 
 | Tipo      |Função                                                                                   |
 |-----------|------------------------------------------------------------------------------------------|
 | Quartos  | Representa os espaços físicos do hotel, permitindo associar cada quarto a um tipo específico, controlar o preço, verificar ocupação e gerir reservas. |
 
-### Adicionar à base de dados
+Os quartos precisam de existir para que a criação de camas e reservas possam ser feitas.
 
-Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da aplicação e escolher a opção 3,que corresponde à inserção de dados.
+## Adicionar à base de dados
+
+Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da aplicação e escolher a opção 3, que corresponde à inserção de dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
