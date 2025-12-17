@@ -16,13 +16,13 @@ Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/do
 
 Esta tabela é dependente da tabela tipo_cama  e necessária para a tabela Quarto
 
-### Incerir dados
+### Inserir dados
 
-Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a função de inserir dados.
+Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a opção de inserir dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
-Após selecionar a opção de adicionar dados basta selecionar a tabela Cama.
+Após selecionar a opção de adicionar dados, basta selecionar a tabela Cama.
 
 8. Tb_Camas
 
