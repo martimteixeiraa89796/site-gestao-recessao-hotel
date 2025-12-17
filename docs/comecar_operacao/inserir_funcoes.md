@@ -1,13 +1,20 @@
 ---
 sidebar_position: 1
 ---
-# Inserir Funcoes
+# Inserir Funções
 
-## Objetos
+Para adicionar um funcionário ao hotel, é necessário que haja funções que os mesmos tenham de desempenhar.
+Devido a isto, antes de se inserir funcionários na aplicação, é preciso definir funções.
+
+## Sobre a tabela
+
+Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/docs/primeiros_passos/iniciar_bd.md#diagrama-da-base-de-dados) da base de dados.
 
 | Tipo      |Função                                                                                   |
 |-----------|------------------------------------------------------------------------------------------|
 | Funções   | Identifica os cargos dos funcionários, definindo permissões e responsabilidades dentro do hotel |
+
+As funções que forem criadas são, por agora, apenas figurativas, pelo as mesmas não influenciam na utilização da aplicação.dd
 
 ### Adicionar à base de dados
 
