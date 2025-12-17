@@ -37,6 +37,10 @@ O opção **Visualizar Dados** permite que os funcionários do hotel **consultem
      - Consultar a duração da estadia dos hóspedes
    - O funcionário escolhe a consulta desejada e o sistema retorna os dados correspondentes.
 
+Exemplo de uma visualização da tabela de hospedes
+
+![exemplo de visualização](/img/aplicacao/visualizacao/visualizacao.png)
+
 ## Atualização de Dados
 
 A opção **Atualizar Dados** permite ao funcionario ou gerente alterar **alterar informações existentes** no sistema, como tipos de quarto, reservas, clientes e horários.
