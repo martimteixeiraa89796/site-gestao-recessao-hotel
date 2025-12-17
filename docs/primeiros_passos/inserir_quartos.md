@@ -21,12 +21,15 @@ Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da 
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
-Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher a tabela referente aos Quartos
+Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher a tabela referente aos quartos.
 
-6. Tb_Quartos
+6. Tb_Quarto
 
 ![Menu inicial da aplicação](/img/aplicacao/inserir_dados.png)
 
-Após ser feita a escolha do tipo a inserir, vai-lhe ser perguntado para inserir o numero do quarto,o numero de tipo de quarto, preco do quarto e a perguntar se o quarto está ocupado.
+Após ser feita a escolha do tipo a inserir, vai-lhe ser perguntado para inserir o número do quarto, o número de tipo de quarto,
+o preço do quarto e a perguntar se o quarto está ocupado.
 
 ![Menu inicial da aplicação](/img/aplicacao/inserir_Quarto.png)
+
+Após a execução deste passo, para todos os quartos, deverá ter uma listas com os quartos inseridos na respetiva tabela.
