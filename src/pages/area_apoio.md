@@ -11,29 +11,29 @@ Esta área foi criada para esclarecer dúvidas especificas, obter apoio técnico
 
 Na area de apoio podemos encontrar:
 
--Esclarecimento de duvidas sobre reservas, quartos, clientes e horário
+- Esclarecimento de duvidas sobre reservas, quartos, clientes e horário
 
--Apoio em caso de erros ou dificuldades técnicas
+- Apoio em caso de erros ou dificuldades técnicas
 
--Informações sobre atualização da aplicação
+- Informações sobre atualização da aplicação
 
 ## Contacto do suporte
 
--📷Email: suporte@gmail.com
+- 📷Email: suporte@gmail.com
 
--📞Telefone: +358 405 930 170
+- 📞Telefone: +358 405 930 170
 
--⏱️Horário: Segunda a Sexta-Feira das 9:00h ás 18:00h
+- ⏱️Horário: Segunda a Sexta-Feira das 9:00h ás 18:00h
 
 ## Problemas comuns
 
 Alguns problemas mais frequentes:
 
--Erro ao inserir ou atualizar dados
+- Erro ao inserir ou atualizar dados
 
--Digitar dados incorretos(Numero,Texto,Decimal)
+- Digitar dados incorretos(Numero,Texto,Decimal)
 
--Tentativa de apagar algum registo que não está lá
+- Tentativa de apagar algum registo que não está lá
 
 ## Sugestões e Melhorias
 

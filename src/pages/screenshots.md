@@ -26,6 +26,10 @@ Uma aplicação simples e leve no sistema, mas com traços profissionais!
 
 ![Menu visualizar dados 3](/img/aplicacao/visualizar_dados3.png)
 
+- Exemplode de visualização
+
+![exemplo de visualização](/img/aplicacao/visualizacao/visualizacao.png)
+
 ## Atualizar Dados
 
 - Menu atualizar dados
