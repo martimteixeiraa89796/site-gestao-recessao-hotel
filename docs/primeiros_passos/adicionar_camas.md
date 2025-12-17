@@ -1,22 +1,28 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Inseir Camas
 
+Com as classificações de camas prontas e os quartos criados, podemos agora colocar camas neles.
+
 ## Tabela Cama
 
-A tabela Cama é onde será colucado os dados das localizaçoes das camas no hotel
+Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/docs/primeiros_passos/iniciar_bd.md#diagrama-da-base-de-dados) da base de dados.
+
+| Tabela | Função |
+|--------|--------|
+| Camas  | Onde será colucado os dados das localizaçoes das camas no hotel |
 
 Esta tabela é dependente da tabela tipo_cama  e necessária para a tabela Quarto
 
-### Incerir dados
+### Inserir dados
 
-Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a função de inserir dados.
+Para adicionar dados à tabela basta abrir o menu da aplicação e selecionar a opção de inserir dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
-Após selecionar a opção de adicionar dados basta selecionar a tabela Cama.
+Após selecionar a opção de adicionar dados, basta selecionar a tabela Cama.
 
 8. Tb_Camas
 
