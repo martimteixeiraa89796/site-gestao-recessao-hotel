@@ -18,7 +18,7 @@ As funções que forem criadas são, por agora, apenas figurativas, pelo as mesm
 
 ### Adicionar à base de dados
 
-Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da aplicação e escolher a opção 3,que corresponde à inserção de dados.
+Adicionar estes tipos de objetos é muito fácil. Basta abrir o menu inicial da aplicação e escolher a opção 3, que corresponde à inserção de dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
