@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Apagar dados  
-
-## Apagar dado específico
+# Apagar dado específico
 
 Nesta secção do tutorial é explicado como funciona a opção Apagar dado específico da aplicação.
 
