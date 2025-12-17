@@ -12,12 +12,12 @@ Começar a utilizar a aplicação é muito fácil. Basta abrir uma linha de coma
 python.exe .\main.py
 ```
 
-Isto vai inicializar a aplicação todas as suas componentes. Pronta a usar quando aparecer o menu inicial.
+Isto vai inicializar a aplicação e todas as suas componentes. A mesma fica pronta a usar quando aparecer o menu inicial.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
 A partir deste momento, a aplicação está pronta para ser usada e, devido à sua natureza portátil,
-o utilizador por lever o diretório da aplicação para qualquer outra máquina que tenham as dependências necessárias.
+o utilizador por lever o diretório da aplicação para qualquer outra máquina que tenha as dependências necessárias.
 
 ## Verificação de Tabelas
 
@@ -29,4 +29,4 @@ A boa notícia é que a nossa aplicação faz essa mesma verificação, automát
 ![Verificação de tableas no inicio da aplicação](/img/aplicacao/verifi_tabelas.png)
 
 Uma vez inicializada, podemos agora começar a inserir dados sobre o hotel.
-Com os dados inseridos, podemos depois dar início aos processos de receção, check-in e gestão de hospedes.
+Com os dados inseridos, podemos depois dar início aos processos de receção, check-in e gestão de hospedes/funcionários.
