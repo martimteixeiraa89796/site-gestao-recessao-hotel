@@ -2,9 +2,7 @@
 sidebar_position: 2
 ---
 
-# Apagar dados
-
-## Apagar todos os dados
+# Apagar todos os dados
 
 Nesta secção do tutorial é explicada a funcionalidade Apagar todos os dados da aplicação.
 

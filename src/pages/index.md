@@ -10,7 +10,9 @@ Nós desenvolvemos uma aplicação para ajudar a organizar e automatizar a gest�
 
 ## Open Source! Tratamos dos erros antes que façam check-in!
 
-Nós definitivamente ***não*** escrevêmos erradamente ***recessão*** em vez de ***receção*** durante o desenvolvimento...
+Nós definitivamente ***não*** escrevemos erradamente ***recessão*** em vez de ***receção*** durante o desenvolvimento...
+
+![open source](/img/other/open_source.png)
 
 É uma força de expressão, da nossa missão de proporcionar a máxima qualidade aos nossos clientes.
 Mantemos as ferramentas abertas para que progresso seja feito de forma rápida e com quem se encontra na área de conhecimento.
@@ -20,6 +22,8 @@ Mantemos as ferramentas abertas para que progresso seja feito de forma rápida e
 Ao contrário do mercado, acreditamos que não é preciso ir à lua para se ter uma boa noite de sono.
 Usamos ferramentas que já existem, iteramos e melhoramos, não substituímos.
 Nenhuma máquina é perfeita, mas porque não usar aquela energia térmica extra de uma torradeira?
+
+![leve](/img/other/leve.jpg)
 
 ## O hotel vê o gráfico a subir, nós tratamos apenas do papel
 
