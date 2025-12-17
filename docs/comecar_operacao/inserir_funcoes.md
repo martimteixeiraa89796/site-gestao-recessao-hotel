@@ -14,7 +14,7 @@ Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/do
 |-----------|------------------------------------------------------------------------------------------|
 | Funções   | Identifica os cargos dos funcionários, definindo permissões e responsabilidades dentro do hotel |
 
-As funções que forem criadas são, por agora, apenas figurativas, pelo as mesmas não influenciam na utilização da aplicação.dd
+As funções que forem criadas são, por agora, apenas figurativas, pelo as mesmas não influenciam na utilização da aplicação.
 
 ### Adicionar à base de dados
 
