@@ -8,7 +8,7 @@ Para começar a popular a base de dados, começamos pelos itens que apresentam m
 
 ## Tipos de objetos
 
-Existem 3 tipos de objetos na base de dados:
+Existem 3 tipos de objetos que o hotel pode classificar:
 
 | Tipo    | Função                                                                                             |
 |---------|----------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ que corresponde à inserção de dados.
 
 ![Menu inicial da aplicação](/img/aplicacao/menu_inicial.png)
 
-Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher as tabelas referente aos tipos mencionados anteriormente.
+Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher as tabelas referentes aos tipos mencionados anteriormente.
 
 1. Tb_Tipo_Cama
 2. Tb_Tipo_Quarto
