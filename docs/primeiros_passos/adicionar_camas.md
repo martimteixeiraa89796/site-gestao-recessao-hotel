@@ -4,9 +4,15 @@ sidebar_position: 5
 
 # Inseir Camas
 
+Com as classificações de camas prontas e os quartos criados, podemos agora colocar camas neles.
+
 ## Tabela Cama
 
-A tabela Cama é onde será colucado os dados das localizaçoes das camas no hotel
+Caso queira saber os campos que a tabela possui, refira-se ao [**diagrama**](/docs/primeiros_passos/iniciar_bd.md#diagrama-da-base-de-dados) da base de dados.
+
+| Tabela | Função |
+|--------|--------|
+| Camas  | Onde será colucado os dados das localizaçoes das camas no hotel |
 
 Esta tabela é dependente da tabela tipo_cama  e necessária para a tabela Quarto
 
