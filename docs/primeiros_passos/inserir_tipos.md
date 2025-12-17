@@ -37,3 +37,6 @@ Após a escolha, será apresentado uma lista com as tabelas. Deverá escolher as
 Após ser feita a escolha do tipo a inserir, vai-lhe ser perguntado o nome que quer dar ao tipo. Esta ação é semelhante para os 3 tipos mencionados anteriormente.
 
 ![Processo de inserção de tipos](/img/aplicacao/insercao_dados/tipos.png)
+
+Após a execução deste passo, para os vários tipos de objetos, deverá ter uma listas dos respetivos tipos
+em cada uma das tabelas anteriormente mencionadas.
