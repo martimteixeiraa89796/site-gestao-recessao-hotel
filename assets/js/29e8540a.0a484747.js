@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksite_gestao_recessao_hotel=globalThis.webpackChunksite_gestao_recessao_hotel||[]).push([[6481],{1954:e=>{e.exports=JSON.parse('{"tags":[{"label":"Changelog","permalink":"/site-gestao-recessao-hotel/blog/tags/changelog","description":"Changelog da aplica\xe7\xe3o","count":1}]}')}}]);

@@ -33,6 +33,43 @@ Assim como acontece nos beta tests de jogos, este período foi marcado por desco
 <p>Este não é um fim, mas sim o início de uma nova fase 🌟. Tal como nos jogos que passam do beta para o lançamento oficial, a aplicação segue agora para melhorias finais. Obrigado a todos os que participaram — novidades vêm aí! 😄🚀</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Changelog 2: Interface e Qualidade de vida]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/changelog_2</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/changelog_2</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Uma nova versão estável foi lançada!]]></description>
+            <content:encoded><![CDATA[<p>Uma nova versão estável foi lançada!</p>
+<p>Esta nova versão traz:</p>
+<ul>
+<li class="">uma nova interface totalmente independente e automatizada;</li>
+<li class="">verificação de tabelas;</li>
+<li class="">automatização de input de utilizador;</li>
+</ul>
+<p>Seguindo a nossa filosofia de pensamento modular, passámos estes dias a tentar fazer com que as informações que a aplicação
+mostra e retira, fossem todas feitas de forma automática e de modo a que manutenção fosse fácil.</p>
+<p>Para tal foi desenvolvido módulos com:</p>
+<ul>
+<li class="">funções para se interagir com o utilizador;</li>
+<li class="">Retirar nomes e dados de tabelas para visualização e tratamento de dados;</li>
+<li class="">Verificar se as tabelas existem ao correr a aplicação;</li>
+</ul>
+<p>Módulos desenvolvidos:</p>
+<ul>
+<li class="">ferramentas_BD</li>
+<li class="">ferramentas_escolha</li>
+<li class="">funcoes_sqlite_create</li>
+<li class="">funcoes_sqlite_delte</li>
+<li class="">funcoes_sqlite_insert</li>
+<li class="">funcoes_sqlite_select</li>
+<li class="">funcoes_sqlite_update</li>
+<li class="">main</li>
+<li class="">verificar_e_atualizar_bd</li>
+</ul>
+<p>Tendo a interface do utilizador pronta e a lógica da aplicação modular e funcional, estamos prontos para, brevemente,
+lançar a aplicação no mundo.</p>]]></content:encoded>
+            <category>Changelog</category>
+        </item>
+        <item>
             <title><![CDATA[Testando uma versão beta da aplicação]]></title>
             <link>https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes</link>
             <guid>https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes</guid>
@@ -43,6 +80,30 @@ Assim como acontece nos beta tests de jogos, este período foi marcado por desco
 <p>Durante os testes, estamos a explorar o funcionamento geral da aplicação, a navegação entre páginas e a forma como a informação é apresentada. O objetivo é garantir que tudo seja simples, intuitivo e agradável para quem utiliza o sistema.</p>
 <p>A versão beta também é uma oportunidade para aprender, errar e evoluir 💡. Cada teste realizado ajuda-nos a identificar melhorias e a tornar a aplicação mais estável e eficiente.</p>
 <p>Continuamos motivados e confiantes de que este projeto está a crescer no caminho certo. Fica atento(a), porque novidades e melhorias estão a caminho! 😄✨</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Changelog 1: Funcionalidades básicas]]></title>
+            <link>https://github.com/site-gestao-recessao-hotel/blog/changelog_1</link>
+            <guid>https://github.com/site-gestao-recessao-hotel/blog/changelog_1</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Uma nova versão estável foi lançada!]]></description>
+            <content:encoded><![CDATA[<p>Uma nova versão estável foi lançada!</p>
+<p>Esta nova versão traz as funcionalidade básicas, como visualizar, alterar ou apagar dados.</p>
+<p>Esta nova versão foi desenvolvida com um pensamento modular, ou seja, cada parte da nossa aplicação
+foi desenhada para funcionar de forma isolada, de modo a preparar para futuras adições e manutenção do código.</p>
+<p>Módulos desenvolvidos:</p>
+<ul>
+<li class="">ferramentas_BD</li>
+<li class="">funcoes_sqlite_create</li>
+<li class="">funcoes_sqlite_delte</li>
+<li class="">funcoes_sqlite_insert</li>
+<li class="">funcoes_sqlite_select</li>
+<li class="">funcoes_sqlite_update</li>
+<li class="">main</li>
+</ul>
+<p>Cada módulo da aplicação pode ser corrido manualmente se as respetivas funções forem chamadas, mas a equipa criou um UI básico
+para essa mesma função.</p>]]></content:encoded>
+            <category>Changelog</category>
         </item>
         <item>
             <title><![CDATA[Distribuições de beta teste da aplicação]]></title>

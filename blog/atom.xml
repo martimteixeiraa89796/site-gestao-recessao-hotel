@@ -40,6 +40,47 @@ Assim como acontece nos beta tests de jogos, este período foi marcado por desco
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Changelog 2: Interface e Qualidade de vida]]></title>
+        <id>https://github.com/site-gestao-recessao-hotel/blog/changelog_2</id>
+        <link href="https://github.com/site-gestao-recessao-hotel/blog/changelog_2"/>
+        <updated>2025-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uma nova versão estável foi lançada!]]></summary>
+        <content type="html"><![CDATA[<p>Uma nova versão estável foi lançada!</p>
+<p>Esta nova versão traz:</p>
+<ul>
+<li class="">uma nova interface totalmente independente e automatizada;</li>
+<li class="">verificação de tabelas;</li>
+<li class="">automatização de input de utilizador;</li>
+</ul>
+<p>Seguindo a nossa filosofia de pensamento modular, passámos estes dias a tentar fazer com que as informações que a aplicação
+mostra e retira, fossem todas feitas de forma automática e de modo a que manutenção fosse fácil.</p>
+<p>Para tal foi desenvolvido módulos com:</p>
+<ul>
+<li class="">funções para se interagir com o utilizador;</li>
+<li class="">Retirar nomes e dados de tabelas para visualização e tratamento de dados;</li>
+<li class="">Verificar se as tabelas existem ao correr a aplicação;</li>
+</ul>
+<p>Módulos desenvolvidos:</p>
+<ul>
+<li class="">ferramentas_BD</li>
+<li class="">ferramentas_escolha</li>
+<li class="">funcoes_sqlite_create</li>
+<li class="">funcoes_sqlite_delte</li>
+<li class="">funcoes_sqlite_insert</li>
+<li class="">funcoes_sqlite_select</li>
+<li class="">funcoes_sqlite_update</li>
+<li class="">main</li>
+<li class="">verificar_e_atualizar_bd</li>
+</ul>
+<p>Tendo a interface do utilizador pronta e a lógica da aplicação modular e funcional, estamos prontos para, brevemente,
+lançar a aplicação no mundo.</p>]]></content>
+        <author>
+            <name>Martim Teixeira</name>
+            <uri>https://github.com/martimteixeiraa89796</uri>
+        </author>
+        <category label="Changelog" term="Changelog"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Testando uma versão beta da aplicação]]></title>
         <id>https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes</id>
         <link href="https://github.com/site-gestao-recessao-hotel/blog/2025/11/27/beta-testes"/>
@@ -54,6 +95,34 @@ Assim como acontece nos beta tests de jogos, este período foi marcado por desco
             <name>Romano Balan</name>
             <uri>https://github.com/a89834</uri>
         </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changelog 1: Funcionalidades básicas]]></title>
+        <id>https://github.com/site-gestao-recessao-hotel/blog/changelog_1</id>
+        <link href="https://github.com/site-gestao-recessao-hotel/blog/changelog_1"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uma nova versão estável foi lançada!]]></summary>
+        <content type="html"><![CDATA[<p>Uma nova versão estável foi lançada!</p>
+<p>Esta nova versão traz as funcionalidade básicas, como visualizar, alterar ou apagar dados.</p>
+<p>Esta nova versão foi desenvolvida com um pensamento modular, ou seja, cada parte da nossa aplicação
+foi desenhada para funcionar de forma isolada, de modo a preparar para futuras adições e manutenção do código.</p>
+<p>Módulos desenvolvidos:</p>
+<ul>
+<li class="">ferramentas_BD</li>
+<li class="">funcoes_sqlite_create</li>
+<li class="">funcoes_sqlite_delte</li>
+<li class="">funcoes_sqlite_insert</li>
+<li class="">funcoes_sqlite_select</li>
+<li class="">funcoes_sqlite_update</li>
+<li class="">main</li>
+</ul>
+<p>Cada módulo da aplicação pode ser corrido manualmente se as respetivas funções forem chamadas, mas a equipa criou um UI básico
+para essa mesma função.</p>]]></content>
+        <author>
+            <name>Martim Teixeira</name>
+            <uri>https://github.com/martimteixeiraa89796</uri>
+        </author>
+        <category label="Changelog" term="Changelog"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Distribuições de beta teste da aplicação]]></title>
