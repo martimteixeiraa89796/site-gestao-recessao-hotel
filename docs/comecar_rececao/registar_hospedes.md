@@ -2,9 +2,7 @@
 sidebar_position: 3
 ---
 
-# Começar Receção
-
-## Registar Hóspedes
+# Registar Hóspedes
 
 Nesta secção do tutorial é explicado como funciona a opção Registar Hóspedes da aplicação, utilizada no momento de iniciar o atendimento na receção do hotel.
 
